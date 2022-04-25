@@ -9,10 +9,3 @@ O conjunto de dados pode ser encontrado em:
 
 O Jupyter Notebook pode ser encontrado em:
 * https://github.com/maldisco/Instance_segmentation-Strawberry_disease/blob/main/YOLACT_strawberry_disease.ipynb
-
-## Passos
-
-* Preparação dos dados
-* Configuração da rede
-* Fazer predições
-* Imprimir images de saída com a segmentação de instâncias
